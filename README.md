@@ -29,7 +29,7 @@ Sub AutoOpen()
 End Sub
 ```
 
-## Useful links to refer to
+## Useful links to refer
 https://docs.microsoft.com/en-us/office/vba/word/concepts/customizing-word/auto-macros
 
 https://docs.microsoft.com/en-us/troubleshoot/windows-client/admin-development/create-desktop-shortcut-with-wsh
