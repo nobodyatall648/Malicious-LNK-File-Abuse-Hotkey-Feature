@@ -1,7 +1,7 @@
 # Malicious LNK File Hotkey
  Crafting a malicious LNK file with ctrl+c hotkey & execute it everytimes typing ctrl+c hotkey
 
-## For more details about Malicious LNK File creation, check out my medium article
+## For more details about Malicious LNK File creation & utilizing in phishing, check out my medium article
 https://bryanleong98.medium.com/utilizing-windows-lnk-features-for-phishing-with-macro-malware-eefc7ec52120
 
 
